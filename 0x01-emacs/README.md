@@ -1,0 +1,1 @@
+Multiple basic Emacs commands that cover opening and saving files, cutting and pasting, searching, undoing and quitting emacs.
